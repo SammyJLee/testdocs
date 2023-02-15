@@ -1,3 +1,3 @@
 # Introduction
 
-What this softwrae does.
+What this software does.
