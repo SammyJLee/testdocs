@@ -2,3 +2,8 @@ site_name: Sam Test 12:05
 
 theme:
   name: material
+
+theme:
+  palette:
+    scheme: slate
+
